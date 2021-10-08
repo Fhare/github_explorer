@@ -2,7 +2,7 @@
   Github_explorer
 </h1>
 
-<h4 align='center'>Primeiro projeto feito no bootcamp da Rocketseat Ignite</h4>
+<h4 align='center'>Primeiro projeto feito no bootcamp da Rocketseat Ignite 🚀</h4>
 
 <p align="center">
   <a><strong>Sobre o projeto</strong></a> •
@@ -13,14 +13,13 @@
 
 ## 👥 Sobre o projeto
 
-Aplicação mobile desenvolvida em uma semana de programação. O objetivo do projeto é ajudar pessoas que gostam de suas plantinhas os lembrando de quando rega-las, de quanto em quanto tempo isso deve acontecer e mais informações sobre elas.
+Como primeiro projeto ele tem como foco nos apresentar ao mundo do React. Entendendo como usar as principais funcionalidades como props, state e hooks. Neste exemplo nós acessamos a API do Github e listamos na tela todos os seus projetos.
 
 ## 💻 Técnologias usadas:
 
- - React native expo
- - Typescript
- - Styled components
- - JSON server
+ - React JS
+ - Javascript
+ - SASS
 
 ## 🚀 Como executar 
 
@@ -28,31 +27,18 @@ Aplicação mobile desenvolvida em uma semana de programação. O objetivo do pr
   ```bash
     # Clonar o repositório 
     
-    - git clone https://github.com/Fhare/plantmanager
+    - git clone https://github.com/Fhare/github_explorer.git
     
-    # Na pasta raiz do projeto executar npm ou yarn install
+    # Na pasta raiz do projeto execute yarn install
     
-    - npm install ou yarn install
+    - yarn install
     
     # Logo após clonar o projeto e instalar as dependências
     # Está na hora de roda-lo.
     
-    # Primeiro use o comando npm, expo ou yarn start no terminal
+    # Execute yarn dev
     
-    - npm, expo ou yarn start
-    
-    # Depois basta copiar e colar o código abaixo no terminal e,
-    # substituir onde está "yourIPAddress" pelo o seu endereço IP
-    
-    - json-server ./src/services/server.json --yourIPAddress --port 3333
-    
-    # Agora dentro do arquivo service/api.js
-    # Altere a baseUrl para o IP da sua maquina
-    # O mesmo IP usado no código acima.
-    
-    # E por fim, abrir o projeto expo no celular com o QRCode.
-    
-    # Ou nos emuladores com os links específicos do expo.
+    - yarn dev
   ```
   
   # Autor
