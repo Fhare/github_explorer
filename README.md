@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align='center'>
   Github_explorer
 </h1>
@@ -47,3 +48,10 @@ Como primeiro projeto ele tem como foco nos apresentar ao mundo do React. Entend
   
   Contato: yago.rodriguesfreitas@outlook.com.br <br />
   Linkedin: https://www.linkedin.com/in/yago-rodrigues-6104951a3/
+=======
+# github_explorer
+
+<hr />
+
+First project developed from Rocketseat Ignite Bootcamp
+>>>>>>> 963be07 (Start componentization)
