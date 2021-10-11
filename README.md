@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align='center'>
   Github_explorer
 </h1>
