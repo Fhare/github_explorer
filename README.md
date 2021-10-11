@@ -25,33 +25,24 @@ Como primeiro projeto ele tem como foco nos apresentar ao mundo do React. Entend
 ## 🚀 Como executar 
 
 
-  ```bash
-    # Clonar o repositório 
+  
+   # Clonar o repositório 
+    git clone https://github.com/Fhare/github_explorer.git
     
-    - git clone https://github.com/Fhare/github_explorer.git
+   # Na pasta raiz do projeto execute yarn install
+    yarn install
     
-    # Na pasta raiz do projeto execute yarn install
+   # Logo após clonar o projeto e instalar as dependências
+   # Está na hora de roda-lo.
     
-    - yarn install
+   # Execute yarn dev
     
-    # Logo após clonar o projeto e instalar as dependências
-    # Está na hora de roda-lo.
-    
-    # Execute yarn dev
-    
-    - yarn dev
-  ```
+    yarn dev
+  
   
   # Autor
   
   Yago Rodrigues Freitas
   
-  Contato: yago.rodriguesfreitas@outlook.com.br <br />
-  Linkedin: https://www.linkedin.com/in/yago-rodrigues-6104951a3/
-=======
-# github_explorer
-
-<hr />
-
-First project developed from Rocketseat Ignite Bootcamp
->>>>>>> 963be07 (Start componentization)
+  ###Contato: yago.rodriguesfreitas@outlook.com.br <br />
+  ###Linkedin: https://www.linkedin.com/in/yago-rodrigues-6104951a3/
