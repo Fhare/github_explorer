@@ -26,16 +26,13 @@ Como primeiro projeto ele tem como foco nos apresentar ao mundo do React. Entend
 
 
   
-   # Clonar o repositório 
+   ## Clonar o repositório 
     git clone https://github.com/Fhare/github_explorer.git
     
-   # Na pasta raiz do projeto execute yarn install
+   ## Na pasta raiz do projeto execute yarn install
     yarn install
     
-   # Logo após clonar o projeto e instalar as dependências
-   # Está na hora de roda-lo.
-    
-   # Execute yarn dev
+   ## Execute yarn dev
     
     yarn dev
   
