@@ -40,5 +40,5 @@ Como primeiro projeto ele tem como foco nos apresentar ao mundo do React. Entend
   
   Yago Rodrigues Freitas
   
-  ###Contato: yago.rodriguesfreitas@outlook.com.br <br />
-  ###Linkedin: https://www.linkedin.com/in/yago-rodrigues-6104951a3/
+  ### Contato: yago.rodriguesfreitas@outlook.com.br <br />
+  ### Linkedin: https://www.linkedin.com/in/yago-rodrigues-6104951a3/
